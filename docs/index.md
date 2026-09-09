@@ -3,7 +3,7 @@
 # TOPF - Talos Orchestrator by PostFinance
 
 <p align="center">
-  <img src="assets/topf.png" alt="TOPF logo" width="200">
+  <img src="assets/logo.svg" alt="TOPF logo" width="200">
 </p>
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/postfinance/topf)](https://go.dev/)

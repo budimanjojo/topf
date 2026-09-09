@@ -13,8 +13,8 @@ extra:
 
 theme:
   name: material
-  logo: assets/topf.png
-  favicon: assets/topf.png
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
   features:
     - content.code.copy
   palette:
